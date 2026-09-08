@@ -8,7 +8,7 @@ I work at the intersection of **banking, data and technology**, with a backgroun
 
 ## 🔭 Personal project
 
-### 🏦 wealth.ai
+### [🪷 wealth.ai](https://banking-products-recommender.onrender.com)
 
 A personal project exploring how public European financial data can be turned into a practical banking decision-support system in two layers:
 
